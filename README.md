@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm vergil as a student in Jember State Polytechnic, Major Informatic Technology. For now i'm currently learning to be an frontend developer. Good to see ya brooo <br>
+i'm Diyo as a student in Jember State Polytechnic, Major Informatic Technology. For now i'm currently learning to be an frontend developer. Good to see ya brooo <br>
 
 
 ## 🌐 Socials:
