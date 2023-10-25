@@ -10,7 +10,17 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/diyo-anggara-pradipa-putra">
+  <a href="https://www.linkedin.com/in/diyo-anggara-pradipa-putra-94888724a/">
     <img src="https://github.com/vergiLgood1/vergiLgood1/blob/main/linkedin.svg" alt="Deskripsi" width="30" height="30" style="fill: #034078;">
+  </a>
+  <a href="https://discord.com/users/741505960895315979
+">
+    <img src="https://github.com/vergiLgood1/vergiLgood1/blob/main/discord.svg" alt="Deskripsi" width="30" height="30" style="fill: #034078;">
+  </a>
+  <a href="https://www.instagram.com/diyoanggaraa/">
+    <img src="https://github.com/vergiLgood1/vergiLgood1/blob/main/instagram.svg" alt="Deskripsi" width="30" height="30" style="fill: #034078;">
+  </a>
+  <a href="diyoanggara149@gmail.com">
+    <img src="https://github.com/vergiLgood1/vergiLgood1/blob/main/gmail.svg" alt="Deskripsi" width="30" height="30" style="fill: #034078;">
   </a>
 </div>
