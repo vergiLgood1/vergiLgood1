@@ -44,15 +44,30 @@
 
 <div align="center">
  
- 🔭 I’m currently study on **Politeknik Negeri Jember**
+ <p align="center">
+   
+   🔭 I’m currently study on **Politeknik Negeri Jember**
  
  🌱 I’m currently learning **Html, CSS, JavaScript, Tailwind,**
 
  💬 Ask me about **waifu, waifu, waifu, waifu**
 
  ⚡ Fun fact **I love the moon**
+
+ </p>
  
  </div>
+
+ <br/>
+
+ <h2 align="center">⚒️ Activity for today⚒️</h2>
+<br/>
+<div align="center">
+[![Discord Presence](https://lanyard.kyrie25.me/api/741505960895315979)](https://discord.com/users/741505960895315979)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<div/>
+
 
  <details> 
   <summary><h2>🛠️ My Tools For Now</h2></summary>
@@ -62,7 +77,6 @@
 
   <p>   
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-logo=gs&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -98,6 +112,18 @@ logo=gs&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+<details>
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+<h2>⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vergiLgood1&theme=prussian" alt="GitHub Streak" /></a>
+</div>
+
+</details>
+
+<br/><br/>
 
 
 
