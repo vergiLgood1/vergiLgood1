@@ -1,5 +1,4 @@
 ![Alt Text](https://github.com/vergiLgood1/vergiLgood1/blob/main/Banner%20profile%20(2).png?raw=true)
-
 <div align="center">
   <p align="center">
   <a href="https://git.io/typing-svg">
@@ -60,9 +59,9 @@
 
  <br/>
 
- <h2 align="center">⚒️ Activity for today⚒️</h2>
+ <h2>⚒️ Activity for today⚒️</h2>
 <br/>
-<div align="center">
+<div>
 [![Discord Presence](https://lanyard.kyrie25.me/api/741505960895315979)](https://discord.com/users/741505960895315979)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -117,27 +116,13 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 <h2>⚡ Stats ⚡</h2>
 <br>
-<div align="center">
+<div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vergiLgood1&theme=prussian" alt="GitHub Streak" /></a>
 </div>
 
 </details>
 
-<br/><br/>
 
-
-<br/>
-<hr/>
-
-<div">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vergiLgood1/vergiLgood1/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 
 
