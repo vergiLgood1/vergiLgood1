@@ -126,4 +126,19 @@
 <br/><br/>
 
 
+<br/>
+<hr/>
+
+<div">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vergiLgood1/vergiLgood1/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
 
