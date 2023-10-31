@@ -56,18 +56,13 @@
  </p>
  
  </div>
-
- <br/>
-
- <h2>⚒️ Activity for today⚒️</h2>
-<br/>
-<div>
-  
-[![Discord Presence](https://lanyard.kyrie25.me/api/741505960895315979)](https://discord.com/users/741505960895315979)
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<div/>
+ <br> <br>
+ 
+ 
+<p align="center">
+  <img src="https://lanyard.kyrie25.me/api/741505960895315979" alt="Discord Presence" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
+</p>
 
 
  <details> 
