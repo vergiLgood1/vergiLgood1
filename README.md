@@ -11,15 +11,15 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/741505960895315979
-" alt="Discord" title="Dev Pro Tips Discord Server"><img width="36px" src="https://i.ibb.co/KN9S2CT/discord.png"/></a>
+" alt="Discord" title="Dev Pro Tips Discord Server"><img width="36px" src="https://i.ibb.co/zfcbV6N/discord-2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/diyo-anggara-pradipa-putra-94888724a/"><img width="32px" alt="linkeidin" title="Youtube" src="https://i.ibb.co/6vqMmmZ/linkedin-in-1.png"/></a>
+  <a href="https://www.linkedin.com/in/diyo-anggara-pradipa-putra-94888724a/"><img width="32px" alt="linkeidin" title="Youtube" src="https://i.ibb.co/Cmc5tS1/linkedin-2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/diyoanggaraa/"><img width="28px" alt="Twitter" title="Instagram" src="https://i.ibb.co/jDjWP63/instagram.png"/></a>
+  <a href="https://www.instagram.com/diyoanggaraa/"><img width="28px" alt="Twitter" title="Instagram" src="https://i.ibb.co/XVcLMcv/instagram-1-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="diyoanggara149@gmail.com"><img width="32px" alt="Ko-fi" title="Email" src="https://i.ibb.co/640ybNL/gmail.png"/></a>
+  <a href="diyoanggara149@gmail.com"><img width="32px" alt="Ko-fi" title="Email" src="https://i.ibb.co/LrqHpnt/gmail-2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="34px" alt="Free Stuff" title="Free gifts for you" src="https://i.ibb.co/Wf0VMcw/gift-solid.png"/></a>
+  <a href=""><img width="34px" alt="Free Stuff" title="Free gifts for you" src="https://i.ibb.co/BfWG7rz/gift-solid-2.png"/></a>
 </p>
 
 <br/>
