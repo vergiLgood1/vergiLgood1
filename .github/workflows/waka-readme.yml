@@ -31,7 +31,7 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML
 
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
