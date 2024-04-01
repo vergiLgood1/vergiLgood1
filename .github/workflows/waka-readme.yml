@@ -1,4 +1,4 @@
-name: Workflow stats
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Waka - Readme
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -20,6 +20,6 @@ jobs:
           LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
-          BLOCKS: ▰▰▰▱▱▱
+          BLOCKS: █▓▒░
           STOP_AT_OTHER: true
           SHOW_MASKED_TIME: false
