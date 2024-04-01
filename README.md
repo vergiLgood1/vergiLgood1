@@ -64,12 +64,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
 </p>
 
-<!--START_SECTION:waka-->
-``` txt
 
-
-```
-<!--END_SECTION:waka-->
 
  <details> 
   <summary><h2>🛠️ My Tools For Now</h2></summary>
@@ -121,6 +116,16 @@
 <br>
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vergiLgood1&theme=prussian" alt="GitHub Streak" /></a>
+</div>
+
+<div>
+  
+<!--START_SECTION:waka-->
+``` txt
+
+
+```
+<!--END_SECTION:waka-->
 </div>
 
 </details>
