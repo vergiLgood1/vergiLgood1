@@ -11,7 +11,7 @@ jobs:
     name: Waka - Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.0
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: vergiLgood1/vergiLgood1
@@ -20,6 +20,6 @@ jobs:
           LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
-          BLOCKS: ▰▰▰▰▰▱▱▱▱▱▱
+          BLOCKS: ▰▰▰▱▱▱
           STOP_AT_OTHER: true
           SHOW_MASKED_TIME: false
