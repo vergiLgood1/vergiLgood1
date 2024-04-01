@@ -64,6 +64,9 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
  <details> 
   <summary><h2>🛠️ My Tools For Now</h2></summary>
