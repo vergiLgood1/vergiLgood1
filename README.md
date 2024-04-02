@@ -121,10 +121,18 @@
 <div>
   
 <!--START_SECTION:waka-->
-``` txt
 
+```txt
+From: 31 March 2024 - To: 01 April 2024
 
+Total Time: 1 hr 21 mins
+
+JavaScript   43 mins         ░░░░░░░░░░░░░▓███████████   53.68 %
+HTML         36 mins         ░░░░░░░░░░░██████████████   44.53 %
+JSON         1 min           ▓████████████████████████   01.70 %
+Markdown     0 secs          █████████████████████████   00.08 %
 ```
+
 <!--END_SECTION:waka-->
 </div>
 
