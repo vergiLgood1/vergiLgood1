@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/vergiLgood1/vergiLgood1/blob/main/Cover%20(1).png?raw=true)
+![Alt Text](https://github.com/vergiLgood1/vergiLgood1/blob/main/Cover%20(5).png)
 <div align="center">
   <p align="center">
   <a href="https://git.io/typing-svg">
