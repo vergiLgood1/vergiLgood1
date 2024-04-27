@@ -124,11 +124,11 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 March 2024 - To: 24 April 2024
+From: 31 March 2024 - To: 25 April 2024
 
-Total Time: 96 hrs 9 mins
+Total Time: 99 hrs 16 mins
 
-Other          52 hrs 44 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   35.42 %
+Other          60 hrs 10 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.74 %
 ```
 
 <!--END_SECTION:waka-->
