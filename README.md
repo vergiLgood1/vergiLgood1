@@ -123,12 +123,12 @@
   
 <!--START_SECTION:waka-->
 
-```rust
-From: 31 March 2024 - To: 02 May 2024
+```txt
+From: 31 March 2024 - To: 03 May 2024
 
-Total Time: 111 hrs 22 mins
+Total Time: 116 hrs 16 mins
 
-Other          88 hrs 50 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.37 %
+Other          90 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.85 %
 ```
 
 <!--END_SECTION:waka-->
