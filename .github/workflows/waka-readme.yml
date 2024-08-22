@@ -26,5 +26,3 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML OTHER # optional
 
-#Readme tes
-
