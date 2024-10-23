@@ -114,10 +114,8 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 <h2>⚡ Stats ⚡</h2>
 <br>
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vergiLgood1&theme=prussian" alt="GitHub Streak" /></a>
-</div>
-
+  
+  [![GitHub Streak](https://github-readme-streak-stats-pi-fawn.vercel.app?user=vergiLgood1&theme=prussian)](https://git.io/streak-stats)
 
 <div>
   
