@@ -45,7 +45,7 @@
 <div align="center">
  
  <p align="center">
-👋 Hi, I am an Information Technology student who is enthusiastic about web development and exploring new technologies. Currently, I am focusing on learning JavaScript/Typescript and Tailwind. I am constantly improving my skills and diving deeper into modern frameworks like NextJs. I'm always excited to work on creative projects and enjoy discussing topics around the world of sports and anime.
+👋 Hi, I am an Information Technology student who is enthusiastic about web development and exploring new technologies. Currently, I am focusing on learning JavaScript/Typescript and Tailwind. I am constantly improving my skills and diving deeper into modern frameworks like NextJs.
 
  </p>
  
