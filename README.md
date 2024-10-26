@@ -46,7 +46,6 @@
  
  <p align="center">
 👋 Hi, I am an Information Technology student who is enthusiastic about web development and exploring new technologies. Currently, I am focusing on learning JavaScript/Typescript and Tailwind. I am constantly improving my skills and diving deeper into modern frameworks like NextJs.
-
  </p>
  
  </div>
@@ -58,7 +57,7 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
 </p>
 
-<details>
+<details open>
 <summary><h2>🎭 Activity</h2></summary>
   
   <h3>⚡ Recent GitHub Activity</h3>
