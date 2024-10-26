@@ -144,7 +144,7 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Github Stats" src="https://vergilgood1-github-readme-stats.vercel.app/api/?username=vergiLgood1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&text_color=9aa5ce" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Github Stats" src="https://vergilgood1-github-readme-stats.vercel.app/api/?username=vergiLgood1&custom_title=vergiLgood1's%20Github%20Stat&show_icons=true&include_all_commits=true&count_private=true&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&text_color=9aa5ce" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Top Languages" src="https://vergilgood1-github-readme-stats.vercel.app/api/top-langs/?username=vergiLgood1&langs_count=8&layout=compact&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&ico`n_color=7aa2f7&hide=Jupyter%20Notebook,Roff&text_color=9aa5ce&text_bold=true" height="192px"/></a>
   <br/>
 
@@ -152,7 +152,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vergiLgood1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vergiLgood1&theme=tokyo-night&hide_border=true&title_color=7aa2f7&color=7aa2f7&line=bb9af7&point=c0caf5" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vergiLgood1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vergiLgood1&theme=tokyo-night&custom_title=vergiLgood1's%20Contribution%20Graph&hide_border=true&title_color=7aa2f7&color=7aa2f7&line=bb9af7&point=c0caf5&radius=8"/></a>
 
 
  <h3>⏰ Wakatime Stats</h3>
