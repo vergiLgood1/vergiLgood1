@@ -7,6 +7,7 @@
 </p>
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&color=7aa2f7&background=FFFFFF00&center=true&repeat=true&random=false&width=435&lines=Front-end+Web+And+App+Developer;Interested+in+UI%2FUX+Design;May+The+Force+Be+With+You">
 </div>
+
 <!-- Social icons section 
 
 <p align="center">
