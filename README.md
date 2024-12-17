@@ -170,5 +170,4 @@ Other                      752 hrs 55 mins ▰▰▰▰▰▰▰▰▰▰▰▰�
 <!--END_SECTION:waka-->
 </div>
 
-
 </details>
