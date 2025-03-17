@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: vergiLgood1/vergiLgood1
           SHOW_TITLE: true # optional
