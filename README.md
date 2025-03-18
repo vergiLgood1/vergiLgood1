@@ -145,7 +145,7 @@
   <a href="#"><img alt="Prisma ORM" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
 </p>
 
-
+</details>
  
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
@@ -197,7 +197,4 @@ Figma Design        31 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱�
 
 <!--END_SECTION:waka-->
 </div>
-
-
-
 </details>
