@@ -162,9 +162,9 @@
 ```txt
 From: 31 March 2024 - To: 17 March 2025
 
-Total Time: 812 hrs 40 mins
+Total Time: 813 hrs 15 mins
 
-Other                      1,121 hrs 21 mins▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   57.98 %
+Other                      1,120 hrs 46 mins▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   57.95 %
 Dart                       261 hrs 41 mins ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.53 %
 TypeScript                 258 hrs 13 mins ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.35 %
 JavaScript                 55 hrs 13 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.86 %
