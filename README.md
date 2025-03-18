@@ -98,31 +98,52 @@
   
   <h3>🧰 Frameworks and Libraries</h3>
 
-  <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-  </p>
+<p>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
+</p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-  </p>
+ <h3>🗄️ Databases and Cloud Hosting</h3>
+<p>
+  <!-- Database Badges -->
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="Convex" src="https://img.shields.io/badge/Convex-000000.svg?logo=convex&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white"></a>
 
- <h3>💻 Software and Tools</h3>
+  <!-- Cloud Hosting Badges -->
+  <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E.svg?logo=railway&logoColor=white"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white"></a>
+  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D7.svg?logo=microsoft-azure&logoColor=white"></a>
+  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+</p>
 
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
+
+<h3>💻 Software and Tools</h3>
+<p>
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+</p>
+<p>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?logo=visualstudio&logoColor=white"></a>
+  <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
+  <a href="#"><img alt="Prisma ORM" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
+</p>
 
 
  
@@ -137,15 +158,15 @@
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vergiLgood1's streak" src="https://github-readme-streak-stats-pi-fawn.vercel.app?user=vergiLgood1&theme=tokyonight&hide_border=true&dates=9aa5ce&sideLabels=7aa2f7&ring=7aa2f7&fire="7aa2f7/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Github Stats" src="https://vergilgood1-github-readme-stats.vercel.app/api/?username=vergiLgood1&custom_title=vergiLgood1's%20Github%20Stat&show_icons=true&include_all_commits=true&count_private=true&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&text_color=9aa5ce" height="192px"/></a>
+<!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <!-- <h3>💻 GitHub Profile Stats</h3> -->
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Github Stats" src="https://vergilgood1-github-readme-stats.vercel.app/api/?username=vergiLgood1&custom_title=vergiLgood1's%20Github%20Stat&show_icons=true&include_all_commits=true&count_private=true&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&text_color=9aa5ce" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Top Languages" src="https://vergilgood1-github-readme-stats.vercel.app/api/top-langs/?username=vergiLgood1&langs_count=8&layout=compact&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&ico`n_color=7aa2f7&hide=Jupyter%20Notebook,Roff&text_color=9aa5ce&text_bold=true" height="192px"/></a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vergiLgood1's Top Languages" src="https://vergilgood1-github-readme-stats.vercel.app/api/top-langs/?username=vergiLgood1&langs_count=8&layout=compact&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&ico`n_color=7aa2f7&hide=Jupyter%20Notebook,Roff&text_color=9aa5ce&text_bold=true" height="192px"/></a> -->
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
