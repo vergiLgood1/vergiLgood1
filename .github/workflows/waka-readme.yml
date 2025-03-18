@@ -25,5 +25,5 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML OTHER # optionalllll
+          IGNORED_LANGUAGES: YAML JSON TOML OTHER IMAGE PRISMA # optionalllll
 
