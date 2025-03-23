@@ -199,5 +199,24 @@ Figma Design        31 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱�
 ```
 
 <!--END_SECTION:waka-->
+
+### Watch my contribution graph get eaten by the snake :snake:
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vergiLgood1/vergiLgood1/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vergiLgood1/vergiLgood1/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/vergiLgood1/vergiLgood1/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 </div>
 </details>
