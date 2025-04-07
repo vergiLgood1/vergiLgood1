@@ -184,17 +184,17 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 05 April 2025
+From: 31 March 2024 - To: 06 April 2025
 
-Total Time: 1,265 hrs 4 mins
+Total Time: 1,266 hrs 15 mins
 
-TypeScript          443 hrs 6 mins  ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.87 %
-Dart                320 hrs 5 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.03 %
-JavaScript          84 hrs 30 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.08 %
-HTML                83 hrs 30 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.01 %
-Blade Template      61 hrs 33 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.43 %
+TypeScript          443 hrs 53 mins ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.90 %
+Dart                320 hrs 5 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.01 %
+JavaScript          84 hrs 31 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.07 %
+HTML                83 hrs 30 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.00 %
+Blade Template      61 hrs 33 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.42 %
 Python              53 hrs 42 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.86 %
-PHP                 32 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.35 %
+PHP                 32 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.34 %
 Figma Design        31 hrs 36 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.27 %
 ```
 
