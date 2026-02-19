@@ -1,6 +1,12 @@
 <!-- ![Alt Text](https://github.com/vergiLgood1/vergiLgood1/blob/main/Cover%20(7).png) -->
+<!-- <div align="center">
+  <a href="https://github.com/rezacrown">
+    <img src="" width="100%" height="340px" alt="Ghibli Landscape Header" style="border-radius: 15px;">
+  </a>
+</div> -->
+
 <div align="center">
-  <p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+2&weight=500&size=25&duration=1&pause=100000&color=7aa2f7&background=FFFFFF00&center=true&repeat=false&random=false&width=435&lines=Diyo+Anggara+">
   </a>
@@ -29,15 +35,19 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
- <a href="https://discord.gg/9YcAmhfA" alt="discord account">
-    <img src="https://img.shields.io/discord/841592988702343179?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/vergiLgood1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vergiLgood1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/vergiLgood1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vergiLgood1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://komarev.com/ghpvc/?username=vergiLgood1">
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=vergiLgood1" width="150" height="28"/>
-</a>
+<a href="https://linkedin.com/in/diyoanggaraa">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/vergiLgood1">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+     <a href="mailto:business@diyoanggara86@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+     <a href="https://steamcommunity.com/id/vergiLgood1">
+      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Email" />
+    </a>
+  
 </p>
 
 <br/>
