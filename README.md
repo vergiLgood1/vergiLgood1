@@ -258,21 +258,21 @@
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-  <p align="center">
+  <p align="start">
     <a href="https://github.com/vergiLgood1">
       <img title="🔥 GitHub Streak Stats" alt="vergiLgood1's streak" src="https://github-readme-streak-stats-pi-fawn.vercel.app?user=vergiLgood1&theme=tokyonight&hide_border=true&dates=9aa5ce&sideLabels=7aa2f7&ring=7aa2f7&fire=7aa2f7"/>
     </a>
   </p>
 
   <h3>📈 GitHub Stats</h3>
-  <p align="center">
+  <p align="start">
     <a href="https://github.com/vergiLgood1">
       <img alt="vergiLgood1's Github Stats" src="https://vergilgood1-github-readme-stats.vercel.app/api/?username=vergiLgood1&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyo-night&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=9aa5ce" height="192px"/>
     </a>
   </p>
 
   <h3>📊 Contribution Graph</h3>
-  <p align="center">
+  <p align="start">
     <a href="https://github.com/vergiLgood1">
       <img alt="vergiLgood1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vergiLgood1&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&color=7aa2f7&line=bb9af7&point=c0caf5&radius=8"/>
     </a>
@@ -284,7 +284,7 @@
   <!--END_SECTION:waka-->
 
   <h3>🐍 Contribution Snake</h3>
-  <p align="center">
+  <p align="start">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
