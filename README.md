@@ -53,29 +53,6 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ea4f7f4r2oouzd9bdjl88t440&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
 </p>
 
-<details open>
-<summary><h2>🎭 Activity</h2></summary>
-  
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-<p align="left">
-    <a href="https://github.com/vergiLgood1/vergiLgood1"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=vergiLgood1&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="readme-vergiLgood1"></a>
-    <a href="https://github.com/vergiLgood1/notion-clone"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=notion-clone&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="notion-clone"></a>
-    <a href="https://github.com/vergiLgood1/Siapkuliah-FE"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=Siapkuliah-FE&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="Siapkuliah-FE"></a>
-    <a href="https://github.com/vergiLgood1/portofolio-2024"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=portofolio-2024&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="portofolio-2024"></a>
-    <a href="https://github.com/vergiLgood1/Al-Qur-an"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=Al-Qur-an&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="Al-Qur-an"></a>
-    <a href="https://github.com/vergiLgood1/memobox"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=memobox&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="memobox"></a>
-    <a href="https://github.com/vergiLgood1/wedding-organizer"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=wedding-organizer&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="wedding-organizer"></a>
-    <a href="https://github.com/vergiLgood1/BengkelExpert"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=BengkelExpert&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="BengkelExpert"></a>
-      <a href="https://github.com/vergiLgood1/BMI-kalkulator"><img width="278" src="https://vergilgood1-github-readme-stats.vercel.app/api/pin/?username=vergiLgood1&repo=BMI-kalkulator&theme=react&bg_color=1a1b26&title_color=7aa2f7&hide_border=true&icon_color=bb9af7&show_icons=false" alt="BMI-kalkulator"></a>
-  </p>
-
-<!--END_SECTION:activity-->
-</details>
-
 <details>
   <summary><h2>🛠️ My Tech Stack</h2></summary>
 
