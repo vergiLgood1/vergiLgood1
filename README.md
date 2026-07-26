@@ -260,17 +260,17 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 24 July 2026
+From: 31 March 2024 - To: 25 July 2026
 
-Total Time: 2,634 hrs 12 mins
+Total Time: 2,634 hrs 52 mins
 
-TypeScript           1,277 hrs 38 mins     ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.30 %
+TypeScript           1,278 hrs 9 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.31 %
 Dart                 500 hrs 24 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.13 %
 JavaScript           162 hrs 10 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.88 %
 Python               91 hrs 55 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.33 %
 HTML                 83 hrs 30 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.03 %
 Blade Template       64 hrs 48 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.35 %
-JSON                 56 hrs 5 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.03 %
+JSON                 56 hrs 14 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.04 %
 CSS                  40 hrs 58 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.48 %
 ```
 
