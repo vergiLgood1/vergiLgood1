@@ -248,12 +248,12 @@
     </a>
   </p>
 
-  <h3>📊 Contribution Graph</h3>
-  <p align="start">
+  <!-- <h3>📊 Contribution Graph</h3> -->
+  <!-- <p align="start">
     <a href="https://github.com/vergiLgood1">
       <img alt="vergiLgood1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vergiLgood1&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&color=7aa2f7&line=bb9af7&point=c0caf5&radius=8"/>
     </a>
-  </p>
+  </p> -->
 
   <h3>⏰ Wakatime Stats</h3>
   
