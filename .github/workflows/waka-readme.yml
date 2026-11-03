@@ -26,4 +26,4 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: Yaml Json Toml Other Image Prisma Figma Design Csv  # optionalllll
-          LANGS: TypeScript, Dart, JavaScript, Python, Bash, PHP, Go, Lua, Visual Basic, Rust
+          LANGS: TypeScript, Dart, JavaScript, Python, Bash, PHP, Go, Lua, Rust, Java
