@@ -14,7 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           API_BASE_URL: https://wakatime.com/api
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           REPOSITORY: vergiLgood1/vergiLgood1
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
