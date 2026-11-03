@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: vergiLgood1/waka-readme@master
         with:
           API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -26,4 +26,4 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: Yaml Json Toml Other Image Prisma Figma Design Csv  # optionalllll
-
+          LANGS: TypeScript, Dart, JavaScript, Python, Bash, PHP, Go, Lua, Visual Basic, Rust
